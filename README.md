@@ -1,58 +1,27 @@
-## Hi there I am Enoch 👋
+<h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+</h3>
 
-#A Web & Mobile App Developer
+<h3 align="center">
+  Hi, I'm Enoch Olubayo
+</h3>
 
-Some emojis that describe me.
-🧑🏻‍🍳 , 🧘🏻, 🏀 , ☕, 🐩.
+<p align="center">
+  <a><img src="https://readme-typing-svg.herokuapp.com?font=poppins&center=true&vCenter=true&lines=Professional+Flutter+Developer;Experienced+Web+Developer;Expert+Graphics+Designer;8%2B+months+of+coding+experience"></a>
+</p>
 
-## Favorite Technologies
+## 💫 About Me:
+I’m a passionate Flutter💙 developer with 8 months of industrial experience designing and developing apps (mobile & web) in a test-driven environment. I’m well skilled in various programming languages, frameworks, and tools. In this rapidly evolving field, I’m always on the search for new technologies to learn and ways to improve myself. I am also a highly skilled Graphics designer🎨.<br>🤝 I’m looking to collaborate on a startup project<br>🌱 I’m currently learning advanced flavors in Flutter<br>⚡ Fun fact: I love playing FIFA🎮
 
-- <a href="https://flutter.dev/" target="_blank">Flutter</a>
-- <a href="https://nodejs.org/" target="_blank">Node.JS</a>
-- <a href="https://reactjs.org/" target="_blank">ReactJS</a>
-- <a href="https://reactnative.dev/" target="_blank">React Native</a>
+## 📱 Connect with me:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/enoch-olubayo-eao) [![Twitter](https://img.shields.io/badge/Facebook-%231DA1F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100038763784686) 
 
-## Interests
-- Machine Learning
-- Mobile Development
-- Full Stack Development
-- DevOPS
-
-### Connect with me:
-
-
-[<img align="left" alt="PrimeTimeTran | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/enoch-olubayo-eao)
-[<img align="left" alt="PrimeTimeTran | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://web.facebook.com/profile.php?id=100038763784686)
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="React Native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://www.PrimeTimeTran)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+## 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![HTML](https://img.shields.io/badge/html-%230db7ed.svg?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/css-%230db7ed.svg?style=for-the-badge&logo=css&logoColor=white)  ![JavaScript](https://img.shields.io/badge/Javascript-%230db7ed.svg?style=for-the-badge&logo=Javascript&logoColor=white) 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Adegunju1&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Adegunju1&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adegunju1&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-<!--
-**Adegunju1/Adegunju1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="CoDiNg RocKs"  width="550"/><br> 
