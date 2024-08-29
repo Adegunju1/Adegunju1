@@ -3,7 +3,7 @@
 </h3>
 
 <h3 align="center">
-  Hi, I'm Enoch Olubayo
+  Hi, I'm Enoch A. Olubayo
 </h3>
 
 <p align="center">
@@ -12,6 +12,16 @@
 
 ## 💫 About Me:
 I’m a passionate Flutter💙 developer with 8 months of industrial experience designing and developing apps (mobile & web) in a test-driven environment. I’m well skilled in various programming languages, frameworks, and tools. In this rapidly evolving field, I’m always on the search for new technologies to learn and ways to improve myself. I am also a highly skilled Graphics designer🎨.<br>🤝 I’m looking to collaborate on a startup project<br>🌱 I’m currently learning advanced flavors in Flutter<br>⚡ Fun fact: I love playing FIFA🎮
+
+<h2>Languages Spoken:</h2> <br>
+English - Full Professional Proficiency <br>
+Yoruba - Native Proficiency <br>
+French - Elementary Proficiency <br>
+German - Elemantary Proficiency
+
+<h2>Education</h2> <br>
+<i>B.Sc</i> Computer Science
+
 
 ## 📱 Connect with me:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/enoch-olubayo-eao) [![Twitter](https://img.shields.io/badge/Facebook-%231DA1F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100038763784686) 
