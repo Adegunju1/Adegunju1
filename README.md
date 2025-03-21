@@ -11,7 +11,7 @@
 </p>
 
 ## 💫 About Me:
-I’m a passionate Flutter💙 developer with 2 years of industrial experience designing and developing apps (mobile & web) in a test-driven environment. I’m well skilled in various programming languages, frameworks, and tools. In this rapidly evolving field, I’m always on the search for new technologies to learn and ways to improve myself. I am also a highly skilled Graphics designer🎨.<br>🤝 I’m looking to collaborate on a startup project<br>🌱 I’m currently learning advanced flavors in Flutter<br>⚡ Fun fact: I love playing FIFA🎮
+I’m a passionate Flutter💙 developer with 2 years of industrial experience designing and developing apps (mobile & web) in a test-driven environment. I’m well skilled in various programming languages, frameworks, and tools. In this rapidly evolving field, I’m always on the search for new technologies to learn and ways to improve myself. I am also a highly skilled Graphics designer🎨.<br>🤝 I’m looking to collaborate on a startup project<br>🌱 I’m currently learning advanced flavors in Flutter<br>⚡ Fun fact: I don't have hobbies
 
 <h2>Languages Spoken:</h2> <br>
 English - Full Professional Proficiency <br>
