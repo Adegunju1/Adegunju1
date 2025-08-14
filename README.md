@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com?font=poppins&center=true&vCenter=true&lines=Professional+Software+Developer+&+SOC+Analyst;Experienced+Web+Developer;Expert+Graphics+Designer;2%2B+years+of+coding+experience"></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com?font=poppins&center=true&vCenter=true&lines=Professional+Software+Developer+and+SOC+Analyst;Experienced+Web+Developer;Expert+Graphics+Designer;2%2B+years+of+coding+experience"></a>
 </p>
 
 ## 💫 About Me:
